@@ -3,9 +3,9 @@ Team Name: Triple Trouble Tigers (TTT)
 
 
 Members:
-Name: Omar Alhajissa - Email: omarhi@my.yorku.ca - Section B Lab 02 
-Name: Adnan Ahmad - Email: adnan797@my.yorku.ca - Section B Lab 02
-Name: Ramandeep Clair - Email: ramanc@my.yorku.ca - Section B Lab 02
+- Name: Omar Alhajissa - Email: omarhi@my.yorku.ca - Section B Lab 02 
+- Name: Adnan Ahmad - Email: adnan797@my.yorku.ca - Section B Lab 02
+- Name: Ramandeep Clair - Email: ramanc@my.yorku.ca - Section B Lab 02
 
 
 Project name: Rock Paper Scissors GO!!!
