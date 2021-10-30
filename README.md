@@ -32,8 +32,10 @@ Pick a symbol between 3, either Rock, Paper, or Scissors. The computer will also
 
 8- Symbols will appear in the middle of the screen, right next to each other starting with the Rock, then the paper, and ending with the scissors. (Name and image of the corresponding option)
 
-9- Winner of the round will be declared by an alert.
+9- Winner of the round will be declared by an alert, saying username x, “ won”.
 
-10- After all rounds are completed, Winner of the match will be declared by an alert saying “Congratulations! ”, username x, “ You won!”. (or if lost vs. computer, by an alert saying “Unlucky! Maybe next time”)
+10- In case of a tie, that round will be discarded, and players will replay that round.
+
+11- After all rounds are completed, Winner of the match will be declared by an alert saying “Congratulations! ”, username x, “ You won!”. (or if lost vs. computer, by an alert saying “Unlucky! Maybe next time”)
 
 
