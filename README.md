@@ -38,4 +38,7 @@ Pick a symbol between 3, either Rock, Paper, or Scissors. The computer will also
 
 11- After all rounds are completed, Winner of the match will be declared by an alert saying “Congratulations! ”, username x, “ You won!”. (or if lost vs. computer, by an alert saying “Unlucky! Maybe next time”)
 
+---
 
+### Project Design ###
+![phase 2 project design](https://user-images.githubusercontent.com/92130648/140622344-5e52f216-8d91-490a-96f4-511637637fea.jpg)
